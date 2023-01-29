@@ -1,0 +1,20 @@
+{
+  "name": "maquetacion",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "node-sass": "^8.0.0",
+    "sass": "^1.57.1",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "swiper": "^8.4.6",
+    "validator": "^13.7.0"
+  }
+}
